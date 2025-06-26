@@ -6,3 +6,15 @@ Hi. On this page, you will find supplementary material for the two BBOB-2025 pap
 * D. Brockhoff and T. Villain: "How Robust is UOBYQA to Worsening, Frozen Noise? Investigations on the \bbob Test Suite With Outliers"
 
 published at the Genetic and Evolutionary Computation Conference (GECCO) in 2025 (in the Companion proceedings).
+
+
+
+<!--## Experiments with All pdfo Solvers on the bbob Suite
+
+[visualization of performance results]()
+-->
+
+
+## Experiments of UOBYQA on the Noisified bbob Suite
+
+[visualization of performance results](./postprocesseddata/uobyqa-noisified/index.html)

@@ -1,0 +1,1592 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.5)  12 MAY 2025 14:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./pptables_f007_20D.tex
+(pptables_f007_20D.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-04-20>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \textbf{f7}
+                & \multicolumn{2}{@{}c@{}}{1351 \quad} & \multicolumn{2}{@{}...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.1 \textbf{f7} &
+                  \multicolumn{2}{@{}c@{}}{1351 \quad} & \multicolumn{2}{@{}...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...{f7} & \multicolumn{2}{@{}c@{}}{1351 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...{f7} & \multicolumn{2}{@{}c@{}}{1351 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...{f7} & \multicolumn{2}{@{}c@{}}{1351 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...{f7} & \multicolumn{2}{@{}c@{}}{1351 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...{f7} & \multicolumn{2}{@{}c@{}}{1351 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...{f7} & \multicolumn{2}{@{}c@{}}{1351 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...7} & \multicolumn{2}{@{}c@{}}{1351 \quad} &
+                                                   \multicolumn{2}{@{}c@{}}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{4274 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{4274 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{4274 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{4274 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{4274 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{4274 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...d} & \multicolumn{2}{@{}c@{}}{4274 \quad} &
+                                                   \multicolumn{2}{@{}c@{}}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{9503 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{9503 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{9503 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{9503 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{9503 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...uad} & \multicolumn{2}{@{}c@{}}{9503 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...d} & \multicolumn{2}{@{}c@{}}{9503 \quad} &
+                                                   \multicolumn{2}{@{}c@{}}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16523 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16523 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16523 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16523 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16523 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16523 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...} & \multicolumn{2}{@{}c@{}}{16523 \quad} &
+                                                   \multicolumn{2}{@{}c@{}}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...} & \multicolumn{2}{@{}c@{}}{16524 \quad} &
+                                                   \multicolumn{2}{@{}c@{}}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...ad} & \multicolumn{2}{@{}c@{}}{16524 \quad}
+                                                   & \multicolumn{2}{@{}c@{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...} & \multicolumn{2}{@{}c@{}}{16524 \quad} &
+                                                   \multicolumn{2}{@{}c@{}|}...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.1 ...4 \quad} & \multicolumn{2}{@{}c@{}|}{16969}
+                                                   & 15 & /15\\\hline
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.1 ...4 \quad} & \multicolumn{2}{@{}c@{}|}{16969}
+                                                   & 15 & /15\\\hline
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.1 ...4 \quad} & \multicolumn{2}{@{}c@{}|}{16969}
+                                                   & 15 & /15\\\hline
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...4 \quad} & \multicolumn{2}{@{}c@{}|}{16969}
+                                                   & 15 & /15\\\hline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.1 ...4 \quad} & \multicolumn{2}{@{}c@{}|}{16969}
+                                                   & 15 & /15\\\hline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.1 ...4 \quad} & \multicolumn{2}{@{}c@{}|}{16969}
+                                                   & 15 & /15\\\hline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.1 ...\quad} & \multicolumn{2}{@{}c@{}|}{16969} &
+                                                   15 & /15\\\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Misplaced alignment tab character &.
+l.1 ...} & \multicolumn{2}{@{}c@{}|}{16969} & 15 &
+                                                   /15\\\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.1 ...lumn{2}{@{}c@{}|}{16969} & 15 & /15\\\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (29.26384pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/10 f7
+ []
+
+! Undefined control sequence.
+<recently read> \algAtables 
+                            
+l.2 \algAtables
+               \hspace*{\fill} & \textbf{7} & \textbf{.8}\mbox{\tiny (11)} &...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \algAtables\hspace*{\fill}
+                               & \textbf{7} & \textbf{.8}\mbox{\tiny (11)} &...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.2 \algAtables\hspace*{\fill} &
+                                 \textbf{7} & \textbf{.8}\mbox{\tiny (11)} &...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.2 \algAtables\hspace*{\fill} & \textbf{7} &
+                                              \textbf{.8}\mbox{\tiny (11)} &...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<argument> \tiny 
+                 (11)
+l.2 ...& \textbf{7} & \textbf{.8}\mbox{\tiny (11)}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.2 ...\textbf{7} & \textbf{.8}\mbox{\tiny (11)} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.2 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.2 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.2 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.2 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.2 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.2 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}}
+                                                   & 0 & /300\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.2 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}}
+                                                   & 0 & /300\\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.2 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}}
+                                                   & 0 & /300\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}}
+                                                   & 0 & /300\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.2 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}}
+                                                   & 0 & /300\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.2 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}}
+                                                   & 0 & /300\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.2 ...2}{@{\,}l@{\,}|}{$\infty$\,\textit{3966}} &
+                                                   0 & /300\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.2 ...{\,}l@{\,}|}{$\infty$\,\textit{3966}} & 0 &
+                                                   /300\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<recently read> \algBtables 
+                            
+l.3 \algBtables
+               \hspace*{\fill} & \textbf{8} & \textbf{.4}\mbox{\tiny (9)} & ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 \algBtables\hspace*{\fill} &
+                                 \textbf{8} & \textbf{.4}\mbox{\tiny (9)} & ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.3 \algBtables\hspace*{\fill} & \textbf{8} &
+                                              \textbf{.4}\mbox{\tiny (9)} & ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<argument> \tiny 
+                 (9)
+l.3 ... & \textbf{8} & \textbf{.4}\mbox{\tiny (9)}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.3 ... \textbf{8} & \textbf{.4}\mbox{\tiny (9)} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...ticolumn{2}{@{\,}l@{\,}}{\textbf{$\infty$}}
+                                                   & \multicolumn{2}{@{\,}l@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 ...column{2}{@{\,}l@{\,}}{\textbf{$\infty$}} &
+                                                   \multicolumn{2}{@{\,}l@{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.3 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}}
+                                                   & 0 & /300\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.3 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}}
+                                                   & 0 & /300\\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.3 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}}
+                                                   & 0 & /300\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}}
+                                                   & 0 & /300\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.3 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}}
+                                                   & 0 & /300\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lassii \or \@classiii \or \@classiv 
+                                                  \or \@classv \fi \@lastchc...
+l.3 ...n{2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}}
+                                                   & 0 & /300\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.3 ...2}{@{\,}l@{\,}|}{$\infty$\,\textit{3986}} &
+                                                   0 & /300\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.3 ...{\,}l@{\,}|}{$\infty$\,\textit{3986}} & 0 &
+                                                   /300\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<recently read> \algCtables 
+                            
+l.4 \algCtables
+               \hspace*{\fill} & 11 & \mbox{\tiny (13)} & \multicolumn{2}{@{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.4 \algCtables\hspace*{\fill} &
+                                 11 & \mbox{\tiny (13)} & \multicolumn{2}{@{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Misplaced alignment tab character &.
+l.4 \algCtables\hspace*{\fill} & 11 &
+                                      \mbox{\tiny (13)} & \multicolumn{2}{@{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<argument> \tiny 
+                 (13)
+l.4 ...les\hspace*{\fill} & 11 & \mbox{\tiny (13)}
+                                                   & \multicolumn{2}{@{\,}l@...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 24 strings out of 476315
+ 785 string characters out of 5798456
+ 1850068 words of memory out of 5000000
+ 20578 multiletter control sequences out of 15000+600000
+ 512595 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 14i,1n,12p,455b,66s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
